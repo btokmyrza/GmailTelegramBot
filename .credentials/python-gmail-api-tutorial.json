@@ -6,19 +6,19 @@
 	"token_expiry": "2018-04-06T10:43:42Z",
 	"id_token": null,
 	"user_agent": "Gmail Bot",
-	"access_token": "ya29.GlyVBU5QOMkrGE8VzvoG1s1wnRbdYzltyfztAd79k1AErJDCI62ymOf28Ag2WvekbYaxXzSW4MLFkrv8x8eNGlTIkMOKzHmn_ySG_4di_ml0bWyyk3XPR4vmmo1O0w",
+	"access_token": "access_token",
 	"token_uri": "https://accounts.google.com/o/oauth2/token",
 	"invalid": false,
 	"token_response": {
-		"access_token": "ya29.GlyVBU5QOMkrGE8VzvoG1s1wnRbdYzltyfztAd79k1AErJDCI62ymOf28Ag2WvekbYaxXzSW4MLFkrv8x8eNGlTIkMOKzHmn_ySG_4di_ml0bWyyk3XPR4vmmo1O0w",
+		"access_token": "token_response__access_token",
 		"token_type": "Bearer",
 		"expires_in": 3600
 	},
 	"client_id": "552792722712-2g4ijf3mbd6hhctsojb3qrkug9o8dg70.apps.googleusercontent.com",
 	"token_info_uri": "https://www.googleapis.com/oauth2/v3/tokeninfo",
-	"client_secret": "q3O75y3TmcCdW7n_I4bUamWn",
+	"client_secret": "client_secret",
 	"revoke_uri": "https://accounts.google.com/o/oauth2/revoke",
 	"_class": "OAuth2Credentials",
-	"refresh_token": "1/okmwnOF9d2kut_sqsv5-TSY6fAw4mW5KgiTx_tA8CzY",
+	"refresh_token": "refresh_token",
 	"id_token_jwt": null
 }
